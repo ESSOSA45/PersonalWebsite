@@ -2586,6 +2586,11 @@ input, select, textarea {
 					color: #953d75;
 				}
 
+				.wrapper.style4 .icon.major:before {
+					color: #b74e91;
+					text-align: center;
+				}
+
 /* Image */
 
 	.image {
